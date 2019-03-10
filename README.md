@@ -14,23 +14,20 @@
   - [Mi Fit](https://play.google.com/store/apps/details?id=com.xiaomi.hm.health) app with an account
   - [Amazfit Bip & Cor WatchFaces](https://play.google.com/store/apps/details?id=paolo4c.amazfit.watchfaces) app
 
-## Try the example
-<img src="/imgs/watch.png" align="left" width="107"></a>
 
 ```bash
 git clone https://github.com/YueErro/amazfitBip_watchface.git
 # or download the zip project and unzip it.
 ```
+
+## Try the example
+<img src="/imgs/watch.png" align="left" width="100"></a>
+
 1. You need to have `watchface.png` and `watchface_loader.bin` ([files](https://github.com/YueErro/amazfitBip_watchface/tree/master/example/white_background)) in your mobile phone.
 2. Once you have them, open _Amazfit Bip & Cor WatchFaces_ app and click on _Carga .bin (BIP)(Local)_ by clicking first in the three dots in the top right side, and choose those files (.png and .bin from the step 1).
 3. Open _Mi Fit_ app and go to _Perfil>Amazfit Bip>Ajustes de apariencia del reloj>Esferas de reloj locales_. If everything is correct you will see the watchface listed there.
 
 ## Edit the example
-```bash
-git clone https://github.com/YueErro/amazfitBip_watchface.git
-# or download the zip project and unzip it.
-```
-
 1. Unzip `AmazfitBipTools-1.0.3.1.7z`.
 2. Open `watchface_loader.bin` with `WatchFace.exe` (the cmd will open and close automatically) to get `watchface_loader` folder with the corresponding images and json file (you can omit the log file).
 3. Edit/Add/Remove the images at your pleasure and edit the json file accordingly and also at your pleasure. You can make use of an useful GUI at https://v1ack.github.io/watchfaceEditor/.
