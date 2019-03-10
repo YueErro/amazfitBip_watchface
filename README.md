@@ -21,7 +21,7 @@ git clone https://github.com/YueErro/amazfitBip_watchface.git
 ```
 
 ## Try the example
-<img src="/imgs/watch.png" align="left" width="100"></a>
+<img src="/imgs/watch.png" align="left" width="70"></a>
 
 1. You need to have `watchface.png` and `watchface_loader.bin` ([files](https://github.com/YueErro/amazfitBip_watchface/tree/master/example/white_background)) in your mobile phone.
 2. Once you have them, open _Amazfit Bip & Cor WatchFaces_ app and click on _Carga .bin (BIP)(Local)_ by clicking first in the three dots in the top right side, and choose those files (.png and .bin from the step 1).
