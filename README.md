@@ -10,7 +10,7 @@
 
 ## Requirements
 - Amazfit Bip watch
-- Android phone compatible with:
+- Mobile phone compatible with:
   - [Mi Fit](https://play.google.com/store/apps/details?id=com.xiaomi.hm.health) app with an account
   - [Amazfit Bip & Cor WatchFaces](https://play.google.com/store/apps/details?id=paolo4c.amazfit.watchfaces) app
 
