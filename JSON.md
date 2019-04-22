@@ -492,7 +492,3 @@ Information about the weather such as current temperature or temperature during 
 }
 ```
 *Use OneLine or Separate in Temperature>Today, do not add both in order not to have duplicated information*
-
-ACTIVITY huellas y dot
-STATUS alarma
-DATE colon
