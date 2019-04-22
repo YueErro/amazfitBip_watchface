@@ -31,10 +31,10 @@ git clone https://github.com/YueErro/amazfitBip_watchface.git
 1. Unzip `AmazfitBipTools-1.0.3.1.7z`.
 2. Open `watchface_loader.bin` with `WatchFace.exe` (the cmd will open and close automatically) to get `watchface_loader` folder with the corresponding images and json file (you can omit the log file).
 3. Edit/Add/Remove the images at your pleasure (screen size of the BIP is 176x176) and edit the json file accordingly and also at your pleasure (read more about [json properties](/JSON.md)). You can make use of an useful GUI at https://v1ack.github.io/watchfaceEditor/ to preview the watchface or even edit the json file. Useful tools for this purpose:
- - [pixlr](https://pixlr.com/editor/) online to edit the images.
- - [image generator](https://v1ack.github.io/watchfaceEditor/imagecreator.html) to create new images
+   - [pixlr](https://pixlr.com/editor/) online to edit the images.
+   - [image generator](https://v1ack.github.io/watchfaceEditor/imagecreator.html) to create new images
 
- *The name of the images has to be a number, 0001.png for instance*
+   *The name of the images has to be a number, 0001.png for instance*
 
 4. Once you are done, open the json file with `WatchFace.exe` to do the opposite in order to generate the bin file (the cmd will open and close automatically). You only need the bin file and the static image (you can also generate the png with the desired numbers from the GUI).
 5. Transfer these two (.bin and .png) files to the mobile phone and follow the steps in [_Try the example_](https://github.com/YueErro/amazfitBip_watchface#try-the-example) If everything is correct you will see your new watchface listed there.
